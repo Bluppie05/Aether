@@ -1,0 +1,19 @@
+{
+  "name": "aether",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bluppie05",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "*",
+    "http": "*",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "url": "^0.11.0",
+    "yargs": "^17.0.1"
+  }
+}
